@@ -1,0 +1,1 @@
+!function(){"use strict";document.querySelector("#name").innerHTML="Your Name"}();
